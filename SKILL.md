@@ -1,5 +1,5 @@
 ---
-name: Advanced AI Writing Humanizer
+name: advanced-ai-writing-humanizer
 description: Transforms AI-generated text into natural, human-sounding writing by removing patterns and injecting human texture.
 ---
 

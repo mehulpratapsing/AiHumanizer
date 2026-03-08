@@ -35,8 +35,8 @@ No app to install. No API key. No subscription. Just one Markdown file.
 
 ### Option 2 Clone and Use Locally (Claude Code)
 ```bash
-git clone https://github.com/your-username/.git
-cp /SKILL.md ~/.claude/skills//
+git clone https://github.com/your-username/your-repo.git
+cp your-repo/SKILL.md ~/.claude/skills/advanced-ai-writing-humanizer.md
 ```
 
 ### Option 3 Download the ZIP
