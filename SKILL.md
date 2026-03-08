@@ -1,3 +1,8 @@
+---
+name: Advanced AI Writing Humanizer
+description: Transforms AI-generated text into natural, human-sounding writing by removing patterns and injecting human texture.
+---
+
 # Advanced AI Writing Humanizer Skill
 
 > Upload this file to Claude, ChatGPT, or any LLM chat interface. Once loaded, the AI will apply deep humanization to any text you paste.
